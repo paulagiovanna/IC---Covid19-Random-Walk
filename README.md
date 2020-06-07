@@ -6,7 +6,7 @@
 ### Passo 1.
 
     O arquivo 'archives.ipynb' é o primeiro arquivo que deve ser rodado:
-    Ele pega os dados dos arquivos 'flights_2018_model.csv', 'flights_2019_1_model.csv' e 'flights_2019_2_model.csv' e os unifica, contabilizando quantos voos foram feitos de um país para o outro e tirando uma média diária (como são 2 anos divide a soma por 730). 
+    Ele contabiliza quantos voos foram feitos de um país para o outro e tira uma média diária (como são 2 anos divide a soma por 730). 
     Esse código gera o arquivo 'international_graph.csv' com a média de voos diários de um país para outro.
     
 ### Passo 2.
